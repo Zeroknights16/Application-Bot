@@ -2,6 +2,8 @@
 
 * Application commands (apply, deny, accept, pending)
 * configurable (not 100%, premium version is 100%)
+* (get a full command list with [prefix]help)
+* Please contact me on Discord if you found any bugs, thank you.
 
 ### Application Log
 
