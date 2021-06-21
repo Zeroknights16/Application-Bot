@@ -6,3 +6,7 @@
 ### Application Log
 
 ![Application](./images/application1.png)
+
+### Application Start
+
+![Application](./images/applicationstart.png)
