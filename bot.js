@@ -127,7 +127,7 @@ client.on('message', function(message) {
 			userApplications[authorId] = { 'step' : 1 };
 			const embed1 = new Discord.MessageEmbed()
 				.setTitle(`${config['bot'].factionname} Application`)
-				.setDescription('To start your application write `Start`.')
+				.setDescription('Write `Start` to start your application.')
 				.setFooter(`${config['bot'].factionname} Discord Bot`)
 				.setTimestamp();
 			try {
