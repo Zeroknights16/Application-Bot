@@ -5,8 +5,7 @@
   "main": "bot.js",
   "dependencies": {
     "chalk": "^4.1.1",
-    "discord.js": "^12.5.3",
-    "fs": "^0.0.1-security"
+    "discord.js": "^12.5.3"
   },
   "devDependencies": {},
   "scripts": {
