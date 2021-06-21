@@ -5,7 +5,7 @@
 **2.** Download the latest release [Here](https://github.com/Zeroknights16/Application-Bot-Discord.js-)\
 **3.** Fill in the config.json file.\
 **4.** Run install.bat to install all the node_modules.\
-**5.** Start the bot by running the start.bat file.\
+**5.** Start the bot by running the start.bat file.
 
 ### Config:
 
