@@ -18,4 +18,4 @@
 
 ### Help list
 
-![Help](./images/help list.png)
+![A4](./images/help list.png)
