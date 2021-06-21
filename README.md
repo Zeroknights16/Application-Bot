@@ -5,7 +5,7 @@
 * [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
 * [Commands  List](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
 * [Installation-Guide](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/installation.md)
-* [FAQ](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/faq.md)
+* [FAQ](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/faq.md)
 
 #### 🛠️ NOTE:
 * This the free version of my application bot! This means that the bot has limited
