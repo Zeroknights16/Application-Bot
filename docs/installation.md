@@ -2,7 +2,7 @@
 
 ### Steps:
 **1.** Please ensure you have [Node.js](https://nodejs.org/en/download/) installed.\
-**2.** Download the latest release [Here](https://github.com/Youniz/Minecraft-Factions-Bot/releases)\
+**2.** Download the latest release [Here](https://github.com/Zeroknights16/Application-Bot-Discord.js-)\
 **3.** Fill in the config.json file.\
 **4.** Run install.bat to install all the node_modules.\
 **5.** Start the bot by running the start.bat file.\
@@ -26,5 +26,4 @@
 }
 ```
 ### Support:
-* You can contact me on discord: `Youniz#0001`
-* Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
+* You can contact me on discord: `Zeroknights#9457`
