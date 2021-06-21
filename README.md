@@ -19,4 +19,4 @@
 * Zeroknights
 
 #### 📝 License
-This project is [MIT](https://github.com/Koolwiza/Bot-12/blob/master/LICENSE) licensed.
+This project is [GNU](https://github.com/jonrandoem/eyeos) licensed.
