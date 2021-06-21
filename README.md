@@ -12,11 +12,10 @@
 * Add more moderation commands
 
 #### ❤️ Support:
-* You can contact me on discord: `Youniz#0001`
-* Join my support server: [Discord](https://discord.gg/aSQsaB4t43)
+* You can contact me on discord: `Zeroknights#9457`
 
 #### 🌟 Credits:
-* Brashive
+* Zeroknights
 
 #### 📝 License
 This project is [MIT](https://github.com/Koolwiza/Bot-12/blob/master/LICENSE) licensed.
