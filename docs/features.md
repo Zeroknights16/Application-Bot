@@ -2,3 +2,7 @@
 
 * Application commands (apply, deny, accept, pending)
 * configurable (not 100%, premium version is 100%)
+
+### Application Log
+
+![Ftop](./images/ftop.png)
