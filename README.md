@@ -9,7 +9,7 @@
 
 #### 🛠️ NOTE:
 * This the free version of my application bot! This means that the bot has limited
-* commands, not 100% conifgurable, no updates, it's not looking that good overall, and much more...
+* features, not 100% conifgurable, no updates, it's not looking that good overall, and much more...
 * If you're interested in buying the premium version feel free to contact me on discord. 
 
 #### ❤️ Support:
