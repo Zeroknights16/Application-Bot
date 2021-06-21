@@ -1,4 +1,4 @@
-# 🚀 Minecraft Factions Discord Bot
+# 🚀 Application Bot (Discord.js)
 
 
 ####  📔 Table Of Contents:
