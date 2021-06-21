@@ -25,7 +25,7 @@
     "factionrole": "", //Role ID, this role is getting applied when an user has been accepted
     "pendingrole": "" //Role ID, this role is getting applied when an user has been accepeted with status "Pending"
   },
-  "permissions": { //Permissions for each command
+  "permissions": { //Permissions for each command; Here's a list of all available options: [Click]https://discord.js.org/#/docs/main/stable/class/Permissions?scrollTo=s-FLAGS
     "accept": "BAN_MEMBERS",
     "deny": "BAN_MEMBERS",
     "dm": "BAN_MEMBERS",
