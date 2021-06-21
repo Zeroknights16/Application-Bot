@@ -7,9 +7,9 @@
 * [FAQ](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/faq.md)
 
 #### 🛠️ NOTE:
-* This the free version of my application bot! This means that the bot has limited
-* features, not 100% conifgurable, no updates, it's not looking that good overall, and much more...
-* If you're interested in buying the premium version feel free to contact me on discord. 
+* This the free version of my application bot! Don't expect it to be as good as my premium one.
+* Chat messages etc. have been intentionally changed to make it worth to buy the premium copy!
+* If you're interested in buying the premium version feel free to contact me on discord (also for more information, etc.). 
 
 #### ❤️ Support:
 * You can contact me on discord: `Zeroknights#9457`
