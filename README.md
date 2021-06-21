@@ -4,7 +4,7 @@
 ####  📔 Table Of Contents:
 * [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
 * [Commands  List](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/commands.md)
-* [Installation-Guide](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/installation-guide.md)
+* [Installation-Guide](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/installation.md)
 * [FAQ](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/faq.md)
 
 #### 🛠️ NOTE:
