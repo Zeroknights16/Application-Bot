@@ -1,0 +1,20 @@
+{
+    "questions": {
+        "q1": "What is your IGN?",
+        "q2": "How old are you? What is your timezone?",
+        "q3": "Do you have a working microphone?",
+        "q4": "How many hours would you consider playing daily?",
+        "q5": "How long have you been playing factions?",
+        "q6": "What are your previous factions?",
+        "q7": "Do you have any friends in [NAME]?",
+        "q8": "Do you have Schematica and do you know how to use it?",
+        "q9": "Do you have Breadcrumbs and do you know how to use it?",
+        "q10": "Do you get that all the money has to be used towards the faction in order to win Ftop?",
+        "q11": "Do you currently play any other server?",
+        "q12": "Would you mainly play with [NAME] and not any other faction that you're in? If you're not in a faction just put yes.",
+        "q13": "On scale from 1-10 (1 being the worst, 10 being the best) how well do you pvp?",
+        "q14": "On scale from 1-10 (1 being the worst, 10 being the best) how well do you grind?",
+        "q15": "Can you explain, what is a buffer?",
+        "q16": "Do you know how to counter/side counter?"
+    }
+}

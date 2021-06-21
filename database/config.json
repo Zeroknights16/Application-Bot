@@ -1,0 +1,23 @@
+{
+  "bot": {
+    "token": "",
+    "prefix": "",
+    "factionname": ""
+  },
+  "channels": {
+  "pending": "",
+  "requirementchannel": "",
+  "applylog": ""
+  },
+  "roles": {
+    "factionrole": "",
+    "pendingrole": ""
+  },
+  "permissions": {
+    "accept": "BAN_MEMBERS",
+    "deny": "BAN_MEMBERS",
+    "dm": "BAN_MEMBERS",
+    "pending": "BAN_MEMBERS",
+    "restart": "BAN_MEMBERS"
+  }
+}
