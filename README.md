@@ -2,7 +2,7 @@
 
 
 ####  📔 Table Of Contents:
-* [Features](https://github.com/Youniz/Minecraft-Factions-Bot/blob/main/docs/features.md)
+* [Features](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/features.md)
 * [Installation-Guide](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/installation.md)
 * [FAQ](https://github.com/Zeroknights16/Application-Bot-Discord.js-/blob/main/docs/faq.md)
 
