@@ -11,18 +11,27 @@
 
 ```json5
 {
-    "discord": {
-        "botToken": "", //The discord bot token
-        "prefix": "." //The bots prefix
-    },
-    "minecraft": {
-        "username": "", //The minecraft alts email adress
-        "password": "", //The minecraft alts password
-        "serverIP": "", //The minecraft server IP
-        "version": "1.8.8", //The minecraft server version
-        "joinCMD": "", //The hub command
-        "ftopCMD": "/f top" //The Ftop command
-    }
+  "bot": {
+    "token": "", //Discord Bot Token
+    "prefix": "", //Prefix of Commands
+    "factionname": "" //Name of your Faction/Discord
+  },
+  "channels": {
+  "pending": "", //Pending Channel ID; User will get access to this channel if he was accepted with Status "Pending"
+  "requirementchannel": "", //Requirement Channel ID; Chat will be mentioned while executing [prefix]apply
+  "applylog": "" //Application Log Channel ID; Logs all applications
+  },
+  "roles": {
+    "factionrole": "", //Role ID, this role is getting applied when an user has been accepted
+    "pendingrole": "" //Role ID, this role is getting applied when an user has been accepeted with status "Pending"
+  },
+  "permissions": { //Permissions for each command
+    "accept": "BAN_MEMBERS",
+    "deny": "BAN_MEMBERS",
+    "dm": "BAN_MEMBERS",
+    "pending": "BAN_MEMBERS",
+    "restart": "BAN_MEMBERS"
+  }
 }
 ```
 ### Support:
