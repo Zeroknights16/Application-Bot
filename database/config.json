@@ -5,9 +5,9 @@
     "factionname": ""
   },
   "channels": {
-  "pending": "",
-  "requirementchannel": "",
-  "applylog": ""
+    "pending": "",
+    "requirementchannel": "",
+    "applylog": ""
   },
   "roles": {
     "factionrole": "",
