@@ -49,7 +49,7 @@ module.exports = {
 				const demotion = new Discord.MessageEmbed()
 					.setTitle(`${config['bot'].factionname} Application`)
 					.setColor('GREEN')
-					.setDescription(`Hello, we liked your apply and would like to invite you to an Interview. Please check ${pendingchannel} for more Information!`)
+					.setDescription(`Hello, your application was well written so we would like to invite you to an Interview. Please check ${pendingchannel} for more Information!`)
 					.setTimestamp()
 					.setFooter(`${config['bot'].factionname} Discord Bot`);
 				tagUser.send({ embed: demotion });
