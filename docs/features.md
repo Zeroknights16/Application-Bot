@@ -22,5 +22,5 @@
 
 ### IMPORTANT [!]
 
-As I mentioned before this is a free version of my premium Application Bot. Don't expect it to be as good since as the premium one!
+As I mentioned before this is a free version of my premium Application Bot. Don't expect it to be as good as the premium one!
 Info: Most of the message-designs have been reworked at the premium version.
