@@ -61,7 +61,7 @@ module.exports = {
 			const errorPermEmbed = new Discord.MessageEmbed()
 				.setColor('ORANGE')
 				.setTitle(`⛔ Error (${config['bot'].prefix}accept) `)
-				.setDescription(`<@${message.author.id}>, you are not allowed to execute this command!\n\n**ID:** \`\`100\`\`\n**Needed Permission:** \`\`Recruitment Manager+\`\`\n**Case ID:** 1\n\n_If you think this is an error report it to an owner_`)
+				.setDescription(`<@${message.author.id}>, you are not allowed to execute this command!\n\n**ID:** \`\`100\`\`\n**Needed Permission:** \`\`${config['permissions'].accept}\`\`\n**Case ID:** 1\n\n_If you think this is an error report it to an owner_`)
 				.setTimestamp()
 				.setFooter(`${config['bot'].factionname} Discord Bot`);
 			message.channel.send({ embed: errorPermEmbed });
