@@ -61,14 +61,14 @@ module.exports = {
 			console.log(consolewords('[CMD]: ') + consolecommands(`${message.author.username}: ${config['bot'].prefix}dm ${atuser} ${Messagecontent}`));
 		}
 		else {
-			const errorArgsEmbed = new Discord.MessageEmbed()
+			const errorPermEmbed = new Discord.MessageEmbed()
 				.setColor('ORANGE')
 				.setTitle(`⛔ Error (${config['bot'].prefix}dm) `)
-				.setDescription(`<@${message.author.id}>, you missed some arguments!\n\n**ID:** \`\`113\`\`\n**Usage:** \`\`${config['bot'].prefix}dm [@User] [Message]\`\`\n**Case ID:** \`\`2\`\`\n\n_If you think this is an error report it to an owner_`)
+				.setDescription(`<@${message.author.id}>, you are not allowed to execute this command!\n\n**ID:** \`\`105\`\`\n**Needed Permission:** \`\`${config['permissions'].dm}\`\`\n**Case ID:** 1\n\n_If you think this is an error report it to an owner_`)
 				.setTimestamp()
 				.setFooter(`${config['bot'].factionname} Discord Bot`);
-			message.channel.send({ embed: errorArgsEmbed });
-			console.log(consolewords('[CMD]: ') + consoleerrcmds(`${message.author.username}: Missing Arguments => Error => ID: 113, Case ID: 2`));
+			message.channel.send({ embed: errorPermEmbed });
+			console.log(consolewords('[CMD]: ') + consoleerrcmds(`${message.author.username}: Missing Permission => Error => ID: 113, Case ID: 1`));
 		}
 	},
 };
