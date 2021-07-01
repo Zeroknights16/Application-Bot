@@ -142,6 +142,7 @@ client.on('message', function(message) {
 					.setFooter(`${config['bot'].factionname} Discord Bot`);
 				message.channel.send({ embed: errorArgsEmbed });
 				console.log(consolewords('[CMD]: ') + consoleerrcmds(`${message.author.username}: Missing Arguments => Error => ID: 108, Case ID: 2`));
+				return;
 			}
 		}
 		message.channel.send(`Before applying make sure you read the requirements (${channelreq})! However your application is starting in **1** second(s).`);
