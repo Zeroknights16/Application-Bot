@@ -12,7 +12,7 @@
 * If you're interested in buying the premium version feel free to contact me on discord (also for more information, etc.). 
 
 #### ❤️ Support:
-* You can contact me on discord: `Zeroknights#9457`
+* You can contact me on discord: `Zeroknights#0001`
 
 #### 🌟 VPS Service:
 * I'm also offering vps services for all discord bots. This means that the bot is 24/7 online witout leaving your pc online.
